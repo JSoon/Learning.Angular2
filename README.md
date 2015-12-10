@@ -1,0 +1,2 @@
+# Learning.angular2
+Preparing for angular 2, which is just around the corner.
